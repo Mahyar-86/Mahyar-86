@@ -36,7 +36,7 @@ discussing potential opportunities, feel free to reach out!
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://facebook.com/mahyar.kazazi.9)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/mahyar_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahyarkazazi/) [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=X&logoColor=white)](https://twitter.com/KazaziMahyar) 
 [![Github](https://img.shields.io/badge/Github-%231877F2.svg?logo=Github&logoColor=white)](https://github.com/Mahyar-86) 
 
