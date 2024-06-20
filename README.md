@@ -13,7 +13,7 @@ eager to learn and improve. If you're interested in collaborating or
 discussing potential opportunities, feel free to reach out!
 
 #### My Resume:
-[![Resume](https://img.shields.io/badge/Resume-%23DA1F2.svg?logo=ReactiveResume&logoColor=white)](https://rxresu.me/mahyar-86/mahyar-kazazi-resume)
+[![Resume](https://img.shields.io/badge/RESUMsE-%23026F81.svg?style=for-the-badge&logo=ReactiveResume&logoColor=white)](https://rxresu.me/mahyar-86/mahyar-kazazi-resume)
 ## 💻 Skills:
 ### Game Development Skills:
 ![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-%2300599C.svg?style=for-the-badge&logo=unrealengine)
