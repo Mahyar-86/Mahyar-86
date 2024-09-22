@@ -1,19 +1,12 @@
 # 🚀 About Me:
-### Hello! I'm **Mahyar**, a 17-year-old **Unreal Engine** game developer who started this journey at 12.
+### Hello! I'm **Mahyar Kazazi**.
 <img src="ProfilePicture.jpg" alt="Profile Picture" width="200"/>
 
-I have spent two years working with Unity and am currently using Unreal
-Engine. I am passionate about game development and committed to
-excelling in this field. Additionally, I have built applications using the Flutter
-framework and have some experience in robotics. I plan to move to
-Mahyar Kazazi
-Germany or the Netherlands for their excellent opportunities in game
-development and technology. Highly motivated, persistent, and always
-eager to learn and improve. If you're interested in collaborating or
-discussing potential opportunities, feel free to reach out!
+Unreal Engine Developer with 5 years of experience in game development. Familiar with design patterns and software architecture, with a background in Unity, C#, Flutter, and Dart.
 
 #### My Resume:
 [![Resume](https://img.shields.io/badge/RESUMsE-%23026F81.svg?style=for-the-badge&logo=ReactiveResume&logoColor=white)](https://rxresu.me/mahyar-86/mahyar-kazazi-resume)
+
 ## 💻 Skills:
 ### Game Development Skills:
 ![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-%2300599C.svg?style=for-the-badge&logo=unrealengine)
