@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahyar Kazazi</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">Mahyar Kazazi</div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link active">Main</a></li>
+                <li><a href="portfolio.html" class="nav-link">Portfolio</a></li>
+                <li><a href="resume.html" class="nav-link">CV / Resume</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container">
+        <section class="hero">
+            <!-- Left Side - Photo -->
+            <div class="hero-photo">
+                <img src="./Assets/Profile.jpg" alt="Profile Photo" class="profile-image">
+            </div>
+
+            <!-- Right Side - Introduction -->
+            <div class="hero-content">
+                <h1 class="hero-title">I am Mahyar Kazazi</h1>
+                <p class="hero-subtitle">A Game Developer</p>
+                <p class="hero-description">
+                Hi! I'm <b>Mahyar</b>, a passionate student with <b>6+ years of experience</b> in game development and programming. I specialize in <b>Unreal Engine</b> and <b>C++</b>, with professional experience in <b>game</b> and <b>Arch-viz</b> teams.
+                </p>
+
+                <!-- Contact & Social Links -->
+                <div class="contact-section">
+                    <p class="contact-label">Get in Touch:</p>
+                    <div class="social-links">
+                        <a href="mailto:rihem1386@gmail.com" class="primary-btn">
+                            <span>Working Email</span>
+                        </a>
+                        <a href="mailto:mahyar.kazazi.edu@gmail.com" class="secondary-btn">
+                            <span>Academic Email</span>
+                        </a>
+                        <a href="https://linkedin.com/in/MahyarKazazi/" target="_blank" class="primary-btn">
+                            <span>LinkedIn</span>
+                        </a>
+                        <a href="https://github.com/Mahyar-86/" target="_blank" class="secondary-btn">
+                            <span>GitHub</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2026 Mahyar. All rights reserved.</p>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" title="Back to top">↑</button>
+
+    <script>
+        const backToTopBtn = document.getElementById('backToTop');
+        
+        window.addEventListener('scroll', function() {
+            if (window.pageYOffset > 300) {
+                backToTopBtn.classList.add('show');
+            } else {
+                backToTopBtn.classList.remove('show');
+            }
+        });
+        
+        backToTopBtn.addEventListener('click', function() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    </script>
+</body>
+</html>
